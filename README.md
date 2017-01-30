@@ -1,1 +1,1 @@
-*Setting up my first repo*
+Setting up my first repo
